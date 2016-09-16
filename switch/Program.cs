@@ -9,7 +9,7 @@ namespace @switch
     class Program
     {
         static void Main(string[] args)
-        //övning1
+        //övning1 
         {
             Console.WriteLine("Mata in ett tal mellan 1 och 4");
 
