@@ -11,9 +11,9 @@ namespace @switch
         static void Main(string[] args)
         //övning1
         {
-            Console.WriteLine("Mata in ett tal mellan 1 och 4")
+            Console.WriteLine("Mata in ett tal mellan 1 och 4");
 
-            ; int tal = int.Parse(Console.ReadLine());
+            int tal = int.Parse(Console.ReadLine());
             switch (tal)
             {
 
